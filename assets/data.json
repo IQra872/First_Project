@@ -1,0 +1,23 @@
+{"studentsInfo" : [ 
+    {"id": 1,
+    "name": "Smith",
+    "fathername" :"Brown Buffy",
+    "depart": "physics",
+    "description" : "Enjoy your day"
+    },
+    { 
+      "id": 2,
+    "name": "Simon",
+    "fathername" :"Chandler Green",
+    "depart": "physics",
+    "description": "Enjoy your day"
+    },
+    {
+      "id": 3,
+    "name": "Sailas",
+    "fathername" :"Jonathan",
+    "depart": "physics",
+    "description" :"Enjoy your day"}
+   ]
+
+}
